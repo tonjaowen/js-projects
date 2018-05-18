@@ -1,3 +1,6 @@
+// asjfljsa;flkjasd;lfjas;dfj
+// asjdf;lkjsad;lfkjs;afjkl
+// lasjdfljsadf
 //Begin loop-define & capture const.
 while (true) {
     const operationType = prompt("Please enter an operation: addition, subtraction, multiplication, division or:  +  -  *  /; q to quit")
